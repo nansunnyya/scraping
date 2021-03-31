@@ -1,6 +1,6 @@
 # scraping연습(with python)
 
-### 구현 내용
+### 📝 구현 내용
 
 ### 1. scraping_analysis(카카오톡 대화내용 분석)
     파일: kakao_analysis.py
