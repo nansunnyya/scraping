@@ -1,11 +1,4 @@
-#########################font선택하기
-# import matplotlib.font_manager as fm
-#
-# # 이용 가능한 폰트 중 '고딕'만 선별
-# for font in fm.fontManager.ttflist:
-#     if 'Gothic' in font.name:
-#         print(font.name, font.fname)
-#########################font선택하기
+
 from wordcloud import WordCloud
 
 from PIL import Image
@@ -29,7 +22,4 @@ wc.generate(text)
 wc.to_file("result_masked.png")
 
 
-# wc = WordCloud(font_path='C:/Windows/Fonts/나눔고딕.ttf', background_color="white", width=600, height=400)
-# wc.generate(text)
-# wc.to_file("result.png")
 
