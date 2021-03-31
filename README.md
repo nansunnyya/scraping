@@ -11,7 +11,7 @@
 
 <br/>
 
-#### 2. scraping_img(이미지 가져와서 local에 저장하기)
+### 2. scraping_img(이미지 가져와서 local에 저장하기)
     파일: getImg.py
 
   📌 BeautifulSoup을 사용하여 자동으로 페이지 스크롤 다운
