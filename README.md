@@ -14,9 +14,9 @@
 #### 2. scraping_img(이미지 가져와서 local에 저장하기)
     파일: getImg.py
 
-  1) BeautifulSoup을 사용하여 자동으로 페이지 스크롤 다운
-  2) 
-  3) 이미지 numbering하여 local에 저장
+  1)BeautifulSoup을 사용하여 자동으로 페이지 스크롤 다운
+  
+  2)이미지 numbering하여 local에 저장
   
 ![image](https://user-images.githubusercontent.com/76245273/113113869-b6128d80-9245-11eb-8db7-be516b70b77c.png)
 
