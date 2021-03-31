@@ -2,10 +2,10 @@
 
 ### 구현 내용
 
-#### 1. scraping_analysis(카카오톡 대화내용 분석)
+### 1. scraping_analysis(카카오톡 대화내용 분석)
     파일: kakao_analysis.py
 
-  카카오톡 대화내용을 분석하여 자주 언급된 단어를 구름 형태로 데이터 시각화 하기
+  📌 카카오톡 대화내용을 분석하여 자주 언급된 단어를 구름 형태로 데이터 시각화 하기
 
 ![image](https://user-images.githubusercontent.com/76245273/113110501-1d2e4300-9242-11eb-8d92-f0049f250940.png)
 
@@ -22,19 +22,19 @@
 
 <br/>
 
-#### 3. scraping_news(특정 시점 뉴스 정보 가져와서 excel파일로 저장하기)
+### 3. scraping_news(특정 시점 뉴스 정보 가져와서 excel파일로 저장하기)
     파일:news.py
-  1)BeautifulSoup, selenium을 사용하여 특정 검색어에 대한 뉴스 정보 가져오기
+  📌 BeautifulSoup, selenium을 사용하여 특정 검색어에 대한 뉴스 정보 가져오기
   
-  2)가져온 정보를 excel파일로 저장
+  📌 가져온 정보를 excel파일로 저장
   
 ![image](https://user-images.githubusercontent.com/76245273/113115019-f1fa2280-9246-11eb-845a-00d37c542483.png)
 
 <br/>
 
-#### 4. scraping_sendEmail(내 이메일에 로그인하여 메일 보내기)
+### 4. scraping_sendEmail(내 이메일에 로그인하여 메일 보내기)
     파일:myemail.py
   
-  1)이메일 로그인 하기
+  📌 이메일 로그인 하기
   
-  2)메일 정보(받는 사람 정보, 보내는 사람 정보, 메일 제목, 메일 내용) 설정 & 파일 첨부하여 메일보내기
+  📌 메일 정보(받는 사람 정보, 보내는 사람 정보, 메일 제목, 메일 내용) 설정 & 파일 첨부하여 메일보내기
