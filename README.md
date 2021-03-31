@@ -9,11 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/76245273/113110501-1d2e4300-9242-11eb-8d92-f0049f250940.png)
 
-
-
-
-
-
+<br/>
 #### 2. scraping_img(이미지 가져와서 local에 저장하기)
     파일: getImg.py
 
@@ -22,7 +18,7 @@
   
 ![image](https://user-images.githubusercontent.com/76245273/113113869-b6128d80-9245-11eb-8db7-be516b70b77c.png)
 
-
+<br/>
 #### 3. scraping_news(특정 시점 뉴스 정보 가져와서 excel파일로 저장하기)
     파일:news.py
   1)BeautifulSoup, selenium을 사용하여 특정 검색어에 대한 뉴스 정보 가져오기
@@ -30,7 +26,7 @@
   
 ![image](https://user-images.githubusercontent.com/76245273/113115019-f1fa2280-9246-11eb-845a-00d37c542483.png)
 
-
+<br/>
 #### 4. scraping_sendEmail(내 이메일에 로그인하여 메일 보내기)
     파일:myemail.py
   
